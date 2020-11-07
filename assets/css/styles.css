@@ -297,6 +297,7 @@ img{
 
 .home__img img {
   width: 240px;
+  padding-bottom: 70%;
 }
 
 .home__social {
